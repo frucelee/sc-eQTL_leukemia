@@ -1,2 +1,2 @@
 # sceQTL_leukemia
-Code for "Single-cell expression quantitative trait loci mapping identifies cell type-specific genetic control of patient with leukaemia in lymph node"
+Code for "Single-cell expression quantitative trait loci mapping identifies cell type-specific genetic regulation of patients with leukemia in lymph nodes"
