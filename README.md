@@ -1,2 +1,6 @@
 # sceQTL_leukemia
-Code for "Single-cell expression quantitative trait loci mapping identifies cell type-specific genetic regulation of patients with leukemia in lymph nodes"
+This repository contains all the R and shell scripts used for the analysis "Single-cell expression quantitative trait loci mapping identifies cell type-specific genetic regulation of patients with leukemia in lymph nodes".
+
+Publication DOI: TBD
+
+Contact: Shifang Li, Immunology-Vaccinology, Faculty of Veterinary Medicine, ULg. email: fruceslee@gmail.com
