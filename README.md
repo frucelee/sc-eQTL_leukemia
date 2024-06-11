@@ -3,4 +3,4 @@ This repository contains the R and shell scripts used for the analysis "Single-c
 
 Publication DOI: TBD
 
-Contact: Shifang Li, Immunology-Vaccinology, Faculty of Veterinary Medicine, ULg. email: fruceslee@gmail.com
+Contact: Shifang Li, Immunology-Vaccinology, FARAH, Ulg. email: fruceslee@gmail.com
