@@ -9,7 +9,7 @@ All the statistical analyses were performed by in-house R/Python script or publi
 
 **1.1 Single-cell RNA-seq analysis, cell type identification, and cell status identification**
 
-Single-cell analysis by Seurat; cell status identification by RNA velocity
+Single-cell analysis by Seurat; cell status identification by RNA velocity.
 
 **1.2 Identification of single-cell expression quantitative traits loci (sceQTL)**
 
@@ -29,7 +29,7 @@ COLOC was applied to identify the colocalized genes between sceQTL and GWAS loci
 
 **1.6 Single-cell Co-expression analysis**
 
-To determine the co-expression profiles we used CS-CORE, which is powered by WGCNA. CS-CORE is an R package for cell-type-specific co-expression inference from single-cell RNA-sequencing data. 
+To determine the co-expression profiles we used CS-CORE, which is powered by WGCNA.
 
 **1.7 Replication of the identified eQTLGen**
 
