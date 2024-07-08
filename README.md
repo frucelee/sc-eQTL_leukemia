@@ -32,7 +32,9 @@ COLOC was applied to identify the colocalized genes between sceQTL and GWAS loci
 To determine the co-expression profiles we used CS-CORE, which is powered by WGCNA. CS-CORE is an R package for cell-type-specific co-expression inference from single-cell RNA-sequencing data. 
 
 1.7 Replication of the identified eQTLGen
+
 To validate the identified eQTL, we checked their effect size in the publicly available dataset GTEx. 
 
 1.8 Overlapping with epigenetics modifications
+
 The publicly available dataset scATAC-seq was employed. 
