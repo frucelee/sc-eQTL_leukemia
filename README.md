@@ -31,7 +31,7 @@ COLOC was applied to identify the colocalized genes between sceQTL and GWAS loci
 
 To determine the co-expression profiles we used CS-CORE, which is powered by WGCNA.
 
-**1.7 Replication of the identified eQTLGen**
+**1.7 Replication of the identified sc-eQTL**
 
 To validate the identified eQTL, we checked their effect size in the publicly available dataset GTEx. 
 
