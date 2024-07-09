@@ -35,6 +35,6 @@ To study co-expression profiles, we used CS-CORE supported by WGCNA.
 
 Cell-cell communications were predicted using CellPhoneDB. The CELLECT was used to calculate the heritability of cell type at the SNP/gene levels, with a single ES estimate (ESm) score for each cell type as input.  
 
-## 1.7 Overlapping with Epigenetics Modifications ##
+## 1.8 Overlapping with Epigenetics Modifications ##
 
 The publicly available dataset scATAC-seq was employed. 
