@@ -13,7 +13,7 @@ Single-cell analysis by Seurat; cell status identification by RNA velocity and p
 
 ## 1.2 Identification of single-cell expression quantitative traits loci (sceQTL) ##
 
-The eQTL of each cell type or diseases were estimated using a linear model which is implemented in tensorqtl. The single-cell co-expression QTL was identified using a weighted linear model. 
+The eQTL for each cell type or disease was estimated by a linear model correcting for the effects of age, sex, 3 PCs, and 10 peer factors, as implemented in tensorqtl. The single-cell co-expression QTL was identified using a weighted linear model. 
 
 ## 1.3 Estimation of shared signals ##
 
