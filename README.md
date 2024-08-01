@@ -1,4 +1,4 @@
-# sceQTL_leukemia
+# sc-eQTL_leukemia
 This repository contains the R and shell scripts used for the analysis "Single-cell expression quantitative trait loci mapping identifies cell type-specific genetic regulation of patients with leukemia".
 
 Publication DOI: TBD
@@ -11,7 +11,7 @@ All statistical analyses were performed by in-house R/Python scripts or publishe
 
 Single-cell analysis by Seurat; cell status identification by RNA velocity and pseudotime analysis.
 
-## 1.2 Identification of single-cell expression quantitative traits loci (sceQTL) ##
+## 1.2 Identification of single-cell expression quantitative traits loci (sc-eQTL) ##
 
 The eQTL for each cell type or disease was estimated by a linear model correcting for the effects of age, sex, PCs, and peer factors, as implemented in tensorqtl. The single-cell co-expression QTL was identified using a weighted linear model. 
 
